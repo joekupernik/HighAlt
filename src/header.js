@@ -2,9 +2,9 @@
 
 function Header() {
     return (
-        <main>
-            <p>Top 100 Albums</p>
-        </main>
+        <h1>
+            <p>High Altitude Web Development</p>
+        </h1>
     );
 }
 
