@@ -1,4 +1,4 @@
-import {Container } from "@mui/system";
+import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
 import Paper from "@mui/material/Paper";
 
