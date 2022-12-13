@@ -4,7 +4,7 @@ import Footer from "./footer";
 import Content from './content';
 import Jumbotron from './jumbotron';
 import ReviewCard from './reviews';
-// in future I need to add the contact form at bottom of app. 
+import Contact from './contact.js';
 
 
 
@@ -18,6 +18,7 @@ function App() {
       <Jumbotron/>
       <Content/>
       <ReviewCard/>
+      <Contact/>
       <Footer/>
     </div>
 
