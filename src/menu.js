@@ -31,7 +31,7 @@ export default function AppBarMenu() {
           'aria-labelledby': 'basic-button',
         }}
       >
-        <MenuItem onClick={href="./contact"}>Freelance Company</MenuItem>
+        <MenuItem onClick={handleClose}>Freelance Company</MenuItem>
         <MenuItem onClick={handleClose}>Contact</MenuItem>
       </Menu>
     </div>
