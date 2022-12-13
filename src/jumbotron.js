@@ -20,12 +20,10 @@ export default function Jumbotron (){
         color="text.primary"
         gutterBottom
       >
-        Elevated Finnancals
+        Show your Best Self
       </Typography>
       <Typography variant="h3" align="center" color="text.secondary" paragraph>
-        I started this company to help people achive their dreams. I offer several services
-        each one as nessesary as the last. Contact me with your problems and I will help you find
-         Solutions.
+        Simply put we take your website seriously.  
       </Typography>
       </Container>
       </Paper>
