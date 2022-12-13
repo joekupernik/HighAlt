@@ -55,7 +55,7 @@ function Header() {
               textDecoration: 'none',
             }}
           >
-            High Altitude Web Development
+            Portfolio
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
@@ -111,7 +111,7 @@ function Header() {
               textDecoration: 'none',
             }}
           >
-            High Alt..
+            Portfolio
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
             {pages.map((page) => (
@@ -128,7 +128,7 @@ function Header() {
           <Box sx={{ flexGrow: 0 }}>
             <Tooltip title="Open settings">
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-                <Avatar alt="Remy Sharp" src="/static/images/avatar/2.jpg" />
+                <Avatar alt="Joe" src="./avitar.png" />
               </IconButton>
             </Tooltip>
             <Menu

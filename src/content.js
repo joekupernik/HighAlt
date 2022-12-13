@@ -22,17 +22,16 @@ function Content() {
         <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"
-        height="140"
-        image="/static/images/cards/contemplative-reptile.jpg"
-        alt="green iguana"
+        height="100%"
+        image="./react.png"
+        alt="react logo"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Lizard
+          React
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          This is my favorite framework for app development. In fact this website is built on react. 
         </Typography>
       </CardContent>
       <CardActions>
@@ -45,17 +44,16 @@ function Content() {
         <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"
-        height="140"
-        image="/static/images/cards/contemplative-reptile.jpg"
-        alt="green iguana"
+        height="100%"
+        image="./typescript.png"
+        alt="Typescript"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Lizard
+        Typescript
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+           Typescript is great! Check out this project where I use typescript to build a website. 
         </Typography>
       </CardContent>
       <CardActions>
@@ -68,17 +66,38 @@ function Content() {
         <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"
-        height="140"
-        image="/static/images/cards/contemplative-reptile.jpg"
-        alt="green iguana"
+        height="100%"
+        image="./mui.png"
+        alt="Material UI"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Lizard
+          Material UI
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          Material UI is a great framework. I use this more than any other framework for css. 
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Button size="small">Share</Button>
+        <Button size="small">Learn More</Button>
+      </CardActions>
+    </Card>
+        </Grid>
+        <Grid  item >
+        <Card sx={{ maxWidth: 345 }}>
+      <CardMedia
+        component="img"
+        height="100%"
+        image="./javascript.png"
+        alt="JavaScript"
+      />
+      <CardContent>
+        <Typography gutterBottom variant="h5" component="div">
+        JavaScript
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+          The mother of frontend development.  I use this every day. please take a look at this project showcasing an API pull and some higher order JavaScript functions. 
         </Typography>
       </CardContent>
       <CardActions>

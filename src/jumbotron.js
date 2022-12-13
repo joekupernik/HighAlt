@@ -20,10 +20,10 @@ export default function Jumbotron (){
         color="text.primary"
         gutterBottom
       >
-        Show your Best Self
+        Front-End Engineer 
       </Typography>
       <Typography variant="h3" align="center" color="text.secondary" paragraph>
-        Simply put we take your website seriously.  
+        React developer, UI/UX, Freelance Business Owner
       </Typography>
       </Container>
       </Paper>
