@@ -3,7 +3,6 @@ import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
-import Button from '@mui/material/Button';
 
 
 export default function Footer() {
@@ -14,7 +13,6 @@ export default function Footer() {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             @High Altitude Web Development LLC.
           </Typography>
-          <Button color="inherit">Contact</Button>
         </Toolbar>
       </AppBar>
     </Box>
