@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 
-const pages = ['Products', 'Pricing', 'Contact'];
+const pages = ['Products', 'Contact'];
 const settings = ['Profile', 'Linkedin', 'GitHub', 'Resume'];
 
 function Header() {
@@ -111,7 +111,7 @@ function Header() {
               textDecoration: 'none',
             }}
           >
-            LOGO
+            High Alt..
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
             {pages.map((page) => (
