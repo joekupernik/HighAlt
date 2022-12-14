@@ -43,6 +43,6 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
-    "homepage": "http://joekupernik.github.io/highalt"
+    "homepage": "http://joekupernik.github.io/my-app"
   }
 }
