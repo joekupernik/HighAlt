@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/highalt/my-app/static/css/main.e6c13ad2.css",
-    "main.js": "/highalt/my-app/static/js/main.e85792cd.js",
-    "static/js/787.28cb0dcd.chunk.js": "/highalt/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/highalt/my-app/index.html",
-    "main.e6c13ad2.css.map": "/highalt/my-app/static/css/main.e6c13ad2.css.map",
-    "main.e85792cd.js.map": "/highalt/my-app/static/js/main.e85792cd.js.map",
-    "787.28cb0dcd.chunk.js.map": "/highalt/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/highalt/static/css/main.e6c13ad2.css",
+    "main.js": "/highalt/static/js/main.47649dc7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/highalt/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/highalt/index.html",
+    "main.e6c13ad2.css.map": "/highalt/static/css/main.e6c13ad2.css.map",
+    "main.47649dc7.js.map": "/highalt/static/js/main.47649dc7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/highalt/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e85792cd.js"
+    "static/js/main.47649dc7.js"
   ]
 }
