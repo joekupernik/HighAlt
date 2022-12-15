@@ -98,7 +98,7 @@ function Content() {
       </CardContent>
       <CardActions>
       <a href="https://github.com/joekupernik/ITuneTop100"> Veiw Source Code</a>
-      <a href="https://github.com/joekupernik/ITunesTop100"> Veiw App</a>
+      <a href="https://joekupernik.github.io/ITuneTop100/"> Veiw App</a>
       </CardActions>
     </Card>
         </Grid>
