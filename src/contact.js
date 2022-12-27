@@ -7,7 +7,7 @@ import Typography from '@mui/material/Typography';
 
 export default function Contact () {
     return(
-      <Paper>
+      <Paper elevation="24" sx={{mt: 2, mb: 2}}>
       <Card variant="outlined" sx={{mt: 2, mb: 2}}>
         <CardContent sx={{display: "flex", justifyContent: "center"}}> 
       <Typography 

@@ -5,7 +5,7 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import  Box  from '@mui/material/Box'
-
+import Paper from '@mui/material/Paper';
 
 
 
@@ -18,6 +18,7 @@ function Content() {
         alignItems="center">
         
         <Grid item >
+        <Paper elevation="24" sx={{mt: 2, mb: 2}}>
         <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"
@@ -37,8 +38,10 @@ function Content() {
         <a href="https://github.com/joekupernik/highalt"> Veiw Source Code</a>
       </CardActions>
     </Card>
+    </Paper>
         </Grid>
         <Grid  item >
+        <Paper elevation="24" sx={{mt: 2, mb: 2}}>
         <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"
@@ -58,8 +61,10 @@ function Content() {
         <a href="https://github.com/joekupernik/Tax-Time">Veiw Source Code</a>
       </CardActions>
     </Card>
+    </Paper>
         </Grid>
         <Grid  item >
+        <Paper elevation="24" sx={{mt: 2, mb: 2}}>
         <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"
@@ -79,8 +84,10 @@ function Content() {
         <a href="https://github.com/joekupernik/highalt"> Veiw Source Code</a>
       </CardActions>
     </Card>
+    </Paper>
         </Grid>
         <Grid  item >
+        <Paper elevation="24" sx={{mt: 2, mb: 2}}>
         <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"
@@ -101,6 +108,7 @@ function Content() {
       <a href="https://joekupernik.github.io/ITuneTop100/"> Veiw App</a>
       </CardActions>
     </Card>
+    </Paper>
         </Grid>
       </Grid>
       </Box>
