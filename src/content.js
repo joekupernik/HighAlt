@@ -19,7 +19,7 @@ function Content() {
         
         <Grid item >
         <Paper elevation="24" sx={{mt: 2, mb: 2}}>
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 345 }} className="projectCard">
       <CardMedia
         component="img"
         height="100%"
@@ -42,7 +42,7 @@ function Content() {
         </Grid>
         <Grid  item >
         <Paper elevation="24" sx={{mt: 2, mb: 2}}>
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 345 }} >
       <CardMedia
         component="img"
         height="100%"
@@ -65,7 +65,7 @@ function Content() {
         </Grid>
         <Grid  item >
         <Paper elevation="24" sx={{mt: 2, mb: 2}}>
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 345 }} >
       <CardMedia
         component="img"
         height="100%"
@@ -100,7 +100,7 @@ function Content() {
         JavaScript
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          The mother of frontend development.  I use this every day. please take a look at this project showcasing an API pull and some higher order JavaScript functions. 
+          Please take a look at this project showcasing an API pull and higher order JavaScript functions. 
         </Typography>
       </CardContent>
       <CardActions>
