@@ -4,7 +4,7 @@ import Footer from "./footer";
 import Content from './content';
 import Jumbotron from './jumbotron';
 import ReviewCard from './reviews';
-import Contact from './contact.js';
+import ContactForm from './contactForm';
 
 
 
@@ -18,7 +18,7 @@ function App() {
       <Jumbotron/>
       <Content/>
       <ReviewCard/>
-      <Contact/>
+      <ContactForm/>
       <Footer/>
     </div>
 
