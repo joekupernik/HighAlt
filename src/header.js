@@ -14,7 +14,7 @@ export default function Header() {
             My Portfolio
           </Typography>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            <a href="./Full Stack Resume 2022.pdf">Download Resume</a>
+            <a href="./Full Stack Resume 2023.pdf">Download Resume</a>
           </Typography>
           <Avatar alt="Joe Kupernik" src="./avitar.png"/>
         </Toolbar>
