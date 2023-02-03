@@ -45,7 +45,7 @@ export default function ReviewCard() {
   };  
   
   return (
-    <Paper elevation={5} sx={{ maxWidth: '100%', flexGrow: 1}}>
+    <Paper elevation={24} sx={{ maxWidth: '100%', flexGrow: 1}}>
     <Paper
       square
       elevation={0}

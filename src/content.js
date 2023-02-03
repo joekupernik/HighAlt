@@ -18,7 +18,7 @@ function Content() {
         alignItems="center">
         
         <Grid item >
-        <Paper elevation="24" sx={{mt: 2, mb: 2}}>
+        <Paper elevation={24} sx={{mt: 2, mb: 2}}>
         <Card sx={{ maxWidth: 345 }} className="projectCard">
       <CardMedia
         component="img"
@@ -41,7 +41,7 @@ function Content() {
     </Paper>
         </Grid>
         <Grid  item >
-        <Paper elevation="24" sx={{mt: 2, mb: 2}}>
+        <Paper elevation={24} sx={{mt: 2, mb: 2}}>
         <Card sx={{ maxWidth: 345 }} >
       <CardMedia
         component="img"
@@ -64,7 +64,7 @@ function Content() {
     </Paper>
         </Grid>
         <Grid  item >
-        <Paper elevation="24" sx={{mt: 2, mb: 2}}>
+        <Paper elevation={24} sx={{mt: 2, mb: 2}}>
         <Card sx={{ maxWidth: 345 }} >
       <CardMedia
         component="img"
@@ -87,7 +87,7 @@ function Content() {
     </Paper>
         </Grid>
         <Grid  item >
-        <Paper elevation="24" sx={{mt: 2, mb: 2}}>
+        <Paper elevation={24} sx={{mt: 2, mb: 2}}>
         <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"

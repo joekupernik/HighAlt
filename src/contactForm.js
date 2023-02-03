@@ -49,7 +49,7 @@ export default function ContactForm() {
   });
 
   return (
-    <Paper elevation="12" sx={{ m: '10%', p: '5%' }}>
+    <Paper elevation={24} sx={{ m: '10%', p: '5%' }}>
       <Box
         sx={{
           '& .MuiTextField-root': { m: 1 },
