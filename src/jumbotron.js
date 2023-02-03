@@ -21,10 +21,10 @@ export default function Jumbotron (){
         color="text.primary"
         gutterBottom
       >
-        Front-End Engineer 
+        Full Stack Engineer 
       </Typography>
       <Typography variant="h3" align="center" color="text.secondary" paragraph>
-        React developer, UI/UX, Freelance Business Owner
+        CEO of High Altitude Web Development
       </Typography>
       
       </Card>
