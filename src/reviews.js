@@ -2,15 +2,15 @@
 import Typography from "@mui/material/Typography";
 import Card  from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
-import Paper  from "@mui/material/Paper";
+//import Paper  from "@mui/material/Paper";
 //import Button from "@mui/material/Button";
 import Box  from "@mui/material/Box";
 
 export default function ReviewCard() {
   return (
     <Box>
-    <Paper elevation="24" sx={{mt: 2, mb: 2}}>
-      <Card variant="outlined" sx={{mt: 2, mb: 2}}>
+    
+      <Card variant="outlined" sx={{m: 2}}>
           <CardContent sx={{display: "flex", justifyContent: "center"}}>
       </CardContent>
       <Typography  
@@ -36,9 +36,9 @@ export default function ReviewCard() {
       <CardContent sx={{display: "flex", justifyContent: "center"}}>
       </CardContent>
       </Card>
-      </Paper>
-      <Paper elevation="24" sx={{mt: 2, mb: 2}}>
-      <Card variant="outlined" sx={{mt: 2, mb: 2}}>
+     
+      
+      <Card variant="outlined" sx={{m: 2}}>
           <CardContent sx={{display: "flex", justifyContent: "center"}}>
       </CardContent>
       <Typography  
@@ -63,7 +63,6 @@ export default function ReviewCard() {
       <CardContent sx={{display: "flex", justifyContent: "center"}}>
       </CardContent>
       </Card>
-      </Paper>
       </Box>
   );
 }
